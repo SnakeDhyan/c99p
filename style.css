@@ -1,0 +1,27 @@
+#name
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+} 
+#camera
+{
+    width: 500px;;
+    height: 300px;
+    border:1px solid grey;
+}
+#popup
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+img
+{
+    box-shadow: lightcoral;
+    border-color: red blue orange yellow green;
+    border-width: 5%;
+}
+img:hover
+{
+    border-radius: 140xp;
+}
